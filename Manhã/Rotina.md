@@ -2,7 +2,7 @@
 
 - Meditação
 
--Café da Manhã
+- Café da Manhã
 
 - Leitura de Mercado
 
