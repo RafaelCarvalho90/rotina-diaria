@@ -1,6 +1,8 @@
 # Rotina Manhã
 
-- Café da Manhã
+- Meditação
+
+-Café da Manhã
 
 - Leitura de Mercado
 
